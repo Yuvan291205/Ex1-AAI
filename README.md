@@ -3,7 +3,7 @@
 <H3> Experiment 1</H3>
 <H3>DATE:15.04.2025</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
-<H1>Aim"</H1> 
+<H1>Aim</H1> 
     To create a bayesian Network for the given dataset in Python
 <H1>Algorithm</H1>
 Step 1:Import necessary libraries: pandas, networkx, matplotlib.pyplot, Bbn, Edge, EdgeType, BbnNode, Variable, EvidenceBuilder, InferenceController<br/>
